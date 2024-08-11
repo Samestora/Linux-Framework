@@ -12,7 +12,9 @@
 - Sudo
 
 ## Installation
-> https://github.com/Samestora/Linux-Framework.git  
+```bash
+git clone https://github.com/Samestora/Linux-Framework.git  
 cd Linux-Framework/  
 chmod +x install.sh  
 sudo ./install.sh
+```
